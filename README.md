@@ -2,6 +2,7 @@
 
 - ⚡ I'm Yedil Sanatov
 - 🌱 I’m currently learning ReactJS and NestJS
+  
 My experience:
 -💻 Automation of the process of filling data in excel | ReactJs 
 -💻 Applications for children with speech impairment | NestJs, ReactJs, ReactNative

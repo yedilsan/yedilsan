@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- ⚡ I'm Yedil Sanatov
+- 🌱 I’m currently learning ReactJS and NestJS
 <!--
 **yedilsan/yedilsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

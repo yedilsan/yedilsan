@@ -7,6 +7,7 @@ My experience:
 
 - 💻 Automation of the process of filling data in excel | ReactJs 
 - 💻 Applications for children with speech impairment | NestJs, ReactJs, ReactNative
+- 💻 Rawg-hub | ReactJs,
 
 My contacts:
 - **Email**: Yedilsanatovv@gmail.com
